@@ -1,0 +1,40 @@
+Redmi K20 | Xiaomi Mi 9T
+🗒️ Changelog:
+
+**********************
+     Jan 31, 2023 
+**********************
+
+- update vendor security patch level
+- upstream kernel to android-4.14-stable (tag 4.14.304)
+- merge tags 'LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0'
+
+**********************
+     Jan 27, 2023 
+**********************
+
+- uprev manifests to level 5
+- uprev various HAL's
+- move Lights, DRM to AIDL 
+- enable SafetyNet pass
+- fix wifi overlays
+- various device optimizations
+- enable VoWIFI in airplane mode
+- fix ViLTE camera
+- device cleanup & optimize for A13
+- update vendor blobs to V13.0.15.0.SKFMIXM
+
+**********************
+     Jan 12, 2023
+**********************
+
+- January 2023 Security patch
+- LOS upgrade to A13_r20 build TQ1A.230105.001.A2
+- lineage davinci initial build
+
+
+👨‍🔧️ maintainer: raul16
+🗓️ build: monthly
+🍦️ type: vanilla
+📱️ version: lineage-20
+
