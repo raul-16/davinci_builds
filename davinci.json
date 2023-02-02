@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1674502322,
+      "filename": "lineage-20.0-20230131-UNOFFICIAL-davinci.zip",
+      "id": "0ba9ec51ef9df4bb09a56e38a4ba81c2d48144638926dc68fb539009a2c14bc8",
+      "romtype": "UNOFFICIAL",
+      "size": 1072118949,
+      "url": "https://sourceforge.net/projects/lineageos-davinci/files/LineageOS-20/lineage-20.0-20230131-UNOFFICIAL-davinci.zip/download",
+      "version": "20.0"
+    }
+  ]
+}
