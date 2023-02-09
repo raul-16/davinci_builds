@@ -2,6 +2,11 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     Feb 9, 2023
+**********************
+- Make CTS/Play Integrity pass again
+
+**********************
      Feb 8, 2023
 **********************
 - February 2023 Security patch
