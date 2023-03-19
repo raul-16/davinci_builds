@@ -2,6 +2,44 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     Mar 17, 2023
+**********************
+- March 2023 Security patch
+- Android 13 QPR2
+- LOS upgrade to A13_r35 build TQ2A.230305.008.C1
+
+**********************
+     Mar 14, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.309)
+
+**********************
+     Mar 8, 2023
+**********************
+- Update vendor blobs from V14.0.2.0.TKFEUXM
+- Revert to Lights HIDL [fix notification LED]
+- Specify kernel FCM version
+
+**********************
+     Feb 26, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.307) (ASB-2023-03-05_4.14-stable)
+- device fixes
+
+**********************
+     Feb 23, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.306)
+- Set default USB, BT & hotspot SSID based on ro.boot.hwc
+- Add three-fingers-swipe screenshot
+
+**********************
+     Feb 13, 2023
+**********************
+- Update vendor blobs from V14.0.1.0.TKFEUXM
+- Update vendor SPL to Feb 01, 2023
+
+**********************
      Feb 9, 2023
 **********************
 - Make CTS/Play Integrity pass again
