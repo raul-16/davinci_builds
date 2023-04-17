@@ -2,6 +2,48 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     Apr 16, 2023
+**********************
+- April 2023 Security patch
+- LOS upgrade to A13_r41 build TQ2A.230405.003.E1
+- Update Adreno from LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+
+**********************
+     Apr 15, 2023
+**********************
+- Upstream kernel to android-4.14-stable
+- Device vendor fixes
+
+**********************
+     Apr 11, 2023
+**********************
+- Upstream kernel to android-4.14-stable
+- Various device clean-ups & fixes
+- Enable 24 bit audio output
+
+**********************
+     Apr 6, 2023
+**********************
+- Upstream kernel to android-4.14-stable (ASB-2023-04-05_4.14-stable)
+- Merge tags 'LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0'
+- Merge tags 'LA.UM.9.1.r1-13100-SMxxx0.QSSI13.0'
+
+**********************
+     Mar 30, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.311)
+
+**********************
+     Mar 26, 2023
+**********************
+- Bring back Lineage fonts, icon pack & shape customizations
+- Drop 2-button navigation [switched to 3-button navigation automatically]
+- Various system fixes / optimizations after AOSP QPR2 merge
+- Require unlocking to use sensitive QS tiles
+- Enable LTE+ icon
+- Add burnin protection
+
+**********************
      Mar 17, 2023
 **********************
 - March 2023 Security patch
