@@ -1,21 +1,21 @@
 {
   "response": [
     {
-      "datetime": 1681670945,
-      "filename": "lineage-20.0-20230416-UNOFFICIAL-davinci.zip",
-      "id": "790dc13970b29d6bb1287b0f82c90e961fa8ffa47435ab4f80a4079ebc941dec",
-      "romtype": "UNOFFICIAL",
-      "size": 1071720278,
-      "url": "https://sourceforge.net/projects/lineageos-davinci/files/LineageOS-20/lineage-20.0-20230416-UNOFFICIAL-davinci.zip/download",
-      "version": "20.0"
-    },
-    {
       "datetime": 1683227724,
       "filename": "lineage-20.0-20230504-UNOFFICIAL-davinci.zip",
       "id": "23b30df88b558c426a5a099ba67004a9fbaaaec3b46933fc7954de903ebd6014",
       "romtype": "UNOFFICIAL",
       "size": 1072253896,
       "url": "https://sourceforge.net/projects/lineageos-davinci/files/LineageOS-20/lineage-20.0-20230504-UNOFFICIAL-davinci.zip/download",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1687336794,
+      "filename": "lineage-20.0-20230622-UNOFFICIAL-davinci.zip",
+      "id": "bded00bb90c8194a1df20c98c1218c1d8cbe7729252f352de4ea4b7189b89ef8",
+      "romtype": "UNOFFICIAL",
+      "size": 1075700654,
+      "url": "https://sourceforge.net/projects/lineageos-davinci/files/LineageOS-20/lineage-20.0-20230622-UNOFFICIAL-davinci.zip/download",
       "version": "20.0"
     }
   ]
