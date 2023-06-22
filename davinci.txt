@@ -2,6 +2,46 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     June 20, 2023
+**********************
+- June 2023 Security patch + QPR3
+- LOS upgrade to A13_r52 build TQ3A.230605.012
+
+**********************
+     June 14, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.318)
+- Add kernel vibration control support
+
+**********************
+     June 9, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.317)
+- Fix GPS build warnings/errors
+- Implement xtra-daemon control via property
+- Remove all permissions from 'serial_number'
+- Add Lineage Charging Control 
+
+**********************
+     June 5, 2023
+**********************
+- Add no_sehash_xattr mount option
+- Apply ASB-2023-06-05 Qualcomm CVE-2023-21656, CVE-2023-21657
+- Optimize & cleanup device code
+
+**********************
+     May 31, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.316) (ASB-2023-06-05)
+- Update architecture
+
+**********************
+     May 18, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.315)
+- Enable VDP on IMS
+
+**********************
      May 4, 2023
 **********************
 - May 2023 Security patch
