@@ -2,6 +2,30 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     July 10, 2023
+**********************
+- July 2023 Security patch
+- LOS upgrade to A13_r61 build TQ3A.230705.001
+- Uprev Audio to 7.1 HIDL
+
+**********************
+     June 28, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.320) (ASB-2023-07-05)
+- Configure BYPASS for Charging Control
+
+**********************
+     June 27, 2023
+**********************
+- Merge tags 'LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0'
+
+**********************
+     June 22, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.319)
+- Drop NFC ODM SKU 
+
+**********************
      June 20, 2023
 **********************
 - June 2023 Security patch + QPR3
