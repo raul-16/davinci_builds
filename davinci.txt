@@ -2,6 +2,19 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     August 12, 2023
+**********************
+- August 2023 Security patch
+- LOS upgrade to A13_r67 build TQ3A.230805.001
+
+**********************
+     July 31, 2023
+**********************
+- Enable charger plug-in statusbar chip - A14 feature
+- Enable 'explicit' media indicator - A14 feature
+- Enable new back gesture affordance - A14 feature
+
+**********************
      July 10, 2023
 **********************
 - July 2023 Security patch
