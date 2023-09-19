@@ -2,6 +2,37 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     September 18, 2023
+**********************
+- September 2023 Security patch
+- LOS Bump Security String to 2023-09-05
+
+**********************
+     September 12, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.325)
+- Drop antiflicker from live screen
+
+**********************
+     September 1, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.324)
+- Merge tags 'LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0'
+
+**********************
+     August 31, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.323)
+
+**********************
+     August 22, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.321)
+- Add FUSE casefold kernel support
+- Remove duplicates from proprietary files
+- Enable casefolding support on userdata
+
+**********************
      August 12, 2023
 **********************
 - August 2023 Security patch
