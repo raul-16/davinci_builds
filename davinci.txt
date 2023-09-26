@@ -2,6 +2,13 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     September 25, 2023
+**********************
+- September 2023 Security patch #2
+- LOS upgrade to A13_r75 build TQ3A.230901.001
+- Fix CVE-2023-4863 (WebP 0-day)
+
+**********************
      September 18, 2023
 **********************
 - September 2023 Security patch
