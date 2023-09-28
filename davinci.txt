@@ -2,6 +2,12 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     September 27, 2023
+**********************
+- Drop casefolding support on userdata
+- Enable SDCardFS kernel support
+
+**********************
      September 25, 2023
 **********************
 - September 2023 Security patch #2
