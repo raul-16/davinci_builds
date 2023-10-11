@@ -2,6 +2,16 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     October 9, 2023
+**********************
+- October 2023 Security patch
+
+**********************
+     September 30, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.326)
+
+**********************
      September 27, 2023
 **********************
 - Drop casefolding support on userdata
