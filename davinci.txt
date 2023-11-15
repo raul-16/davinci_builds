@@ -2,11 +2,67 @@ Redmi K20 | Xiaomi Mi 9T
 🗒️ Changelog:
 
 **********************
+     November 11, 2023
+**********************
+- increase product partition
+- Make CTS/Play Integrity pass again
+- Support build MTG inline
+
+**********************
+     November 9, 2023
+**********************
+- November 2023 Security patch
+- LOS upgrade to A14_r14 build UP1A.231105.003
+- Upstream kernel to android-4.14-stable (tag 4.14.329)
+- Merge tags 'LA.UM.9.1.r1-14700-SMxxx0.QSSI13.0'
+- Enable LTE+ icon
+- Add burnin protection
+- Add power menu blurs
+- Add prop utils spoof for CTS
+- Add Transparent QS feature
+- Enable blurs
+- Add three-fingers-swipe screenshot
+- Make CTS/Play Integrity pass again
+- Support build MTG inline
+
+**********************
+     November 8, 2023
+**********************
+- Migrate device to Android 14
+- davinci initial lineage 21 build
+
+**********************
      October 27, 2023
 **********************
 - LineageOS upgrade to A14_r1 
 - lineage-21 davinci build UP1A.231005.007
 - October 2023 Security patch
+
+**********************
+     October 26, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.328)
+
+**********************
+     October 24, 2023
+**********************
+- Update blobs from sweet MIUI V14.0.7.0.TKFMIXM
+- Xiaomi Parts use current SDK
+- Update vendor SPL to September 2023
+
+**********************
+     October 18, 2023
+**********************
+- Move to retrofit dynamic partitions
+- Move encription to FBE v2
+- Drop SDCardFS
+- Enable casefolding
+- Enable FUSE
+
+**********************
+     October 12, 2023
+**********************
+- Upstream kernel to android-4.14-stable (tag 4.14.327)
 
 👨‍🔧️ maintainer: raul16
 🗓️ build: monthly
